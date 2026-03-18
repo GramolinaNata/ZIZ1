@@ -7,11 +7,10 @@
 React 18, TypeScript, Vite, TanStack React Query, Axios, MockAPI
 
 ## Запуск
-
-\`\`\`bash
+```bash
 npm install
 npm run dev
-\`\`\`
+```
 
 ## Функциональность
 
